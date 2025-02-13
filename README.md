@@ -143,7 +143,3 @@ expense-tracker/
 - Chart.js for beautiful visualizations
 - Tailwind CSS for the styling system
 - All other open-source libraries used in this project
-
-## Support
-
-For support, email saibharadwaja18@gmail.com or open an issue in the repository.
